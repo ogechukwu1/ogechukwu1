@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I love listening to music**
 
 
-![NUXtocat](https://raw.githubusercontent.com/ogechukwu1/ogechukwu1/main/assets/109708450/9ba8d494-493d-43f0-844b-d667e4cb8702.gif)
+![NUX_Octocat](https://raw.githubusercontent.com/ogechukwu1/ogechukwu1/main/assets/109708450/9ba8d494-493d-43f0-844b-d667e4cb8702.gif)
 
 ![NUX_Octodex](https://github.com/ogechukwu1/ogechukwu1/assets/109708450/b0f3afaa-c218-4e47-b510-6882606c8f40)
 
