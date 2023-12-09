@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I love listening to music**
 
 
-![Butterfly GIF](https://github.com/ogechukwu1/ogechukwu1/assets/109708450/5beaf37f-001d-4854-8e35-5b0a8525d083)
+![Butterfly GIF](https://github.com/ogechukwu1/ogechukwu1/blob/main/assets/109708450/5beaf37f-001d-4854-8e35-5b0a8525d083.gif)
 
 
 
