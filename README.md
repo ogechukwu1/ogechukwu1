@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I love listening to music**
 
 
-![NUX_Octocat](https://raw.githubusercontent.com/ogechukwu1/ogechukwu1/main/assets/109708450/9ba8d494-493d-43f0-844b-d667e4cb8702.gif)
+![NUXtocat](https://raw.githubusercontent.com/ogechukwu1/ogechukwu1/main/assets/109708450/9ba8d494-493d-43f0-844b-d667e4cb8702.gif)
 
 
 <h3 align="left">Connect with me:</h3>
