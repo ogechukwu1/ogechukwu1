@@ -18,6 +18,10 @@
 
 ![NUXtocat](https://raw.githubusercontent.com/ogechukwu1/ogechukwu1/main/assets/109708450/9ba8d494-493d-43f0-844b-d667e4cb8702.gif)
 
+![Action GIF](https://github.com/ogechukwu1/ogechukwu1/assets/109708450/a829b869-16a3-432e-945e-94d61f3a1d88)
+
+![Laptop GIF](https://github.com/ogechukwu1/ogechukwu1/assets/109708450/524aa06e-6c0e-4498-adb0-9c1733031add.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
