@@ -15,14 +15,6 @@
 
 - ⚡ Fun fact **I love listening to music**
 
-
-![NUXtocat](https://raw.githubusercontent.com/ogechukwu1/ogechukwu1/main/assets/109708450/9ba8d494-493d-43f0-844b-d667e4cb8702.gif)
-
-![Action GIF](https://github.com/ogechukwu1/ogechukwu1/assets/109708450/a829b869-16a3-432e-945e-94d61f3a1d88)
-
-![Laptop GIF](https://github.com/ogechukwu1/ogechukwu1/assets/109708450/524aa06e-6c0e-4498-adb0-9c1733031add.gif)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/desunshine0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="desunshine0" height="30" width="40" /></a>
