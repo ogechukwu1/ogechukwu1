@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I love listening to music**
 
-- <p><img align="right" src="https://octodex.github.com/images/NUX_Octodex.gif" /></p>
+- <img align="right" src="https://octodex.github.com/images/NUX_Octodex.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
