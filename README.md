@@ -91,8 +91,7 @@
 
 ###
 
-<p align="left">📫 How to reach me ogennanyelugo@gmail.com 📫 How to reach me: [ogennanyelugo@gmail.com](mailto:ogennanyelugo@gmail.com)
-</p>
+<p align="left">📫 How to reach me ogennanyelugo@gmail.com</p>
 
 ###
 
