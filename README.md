@@ -66,45 +66,66 @@
 
 ###
 
-<h3 align="center">I'm a passionate DevOps and Cloud Engineer with hands-on experience in AWS services, automation, and infrastructure management. I enjoy working on scalable and secure cloud solutions, improving performance.</h3>
+<h4 align="center">I'm a passionate DevOps and Cloud Engineer with hands-on experience in AWS services, automation, and infrastructure management. I enjoy working on scalable and secure cloud solutions, improving performance.</h4>
 
 ###
 
-<p align="left">🔭 I’m currently working on **projects**</p>
+<p align="left">🔭 I’m currently working on projects</p>
 
 ###
 
-<p align="left">👯 I’m looking to collaborate on **projects that push the boundaries of efficiency and innovation.**</p>
+<p align="left">👯 I’m looking to collaborate on projects that push the boundaries of efficiency and innovation.</p>
 
 ###
 
-<p align="left">🤝 I’m looking for help with **Expanding my knowledge in Kubernetes and container orchestration, Collaborating on open-source DevOps or cloud projects, Exploring best practices for securing cloud infrastructures.**</p>
+<p align="left">🤝 I’m looking for help with Expanding my knowledge in Kubernetes and container orchestration, Collaborating on open-source DevOps or cloud projects, Exploring best practices for securing cloud infrastructures.</p>
 
 ###
 
-<p align="left">🌱 I’m currently learning **DevOps and Open to Insights, tips, and recommendations from those experienced in DevOps. Advanced AWS DevOps tools like Elastic Beanstalk, Lambda, etc. Kubernetes for containerized application deployment and management. Terraform for Infrastructure as Code (IaC) deployments. If you have hands-on experience or valuable resources to share, I'm all ears!**</p>
+<p align="left">🌱 I’m currently learning DevOps and Open to Insights, tips, and recommendations from those experienced in DevOps. Advanced AWS DevOps tools like Elastic Beanstalk, Lambda, etc. Kubernetes for containerized application deployment and management. Terraform for Infrastructure as Code (IaC) deployments. If you have hands-on experience or valuable resources to share, I'm all ears!</p>
 
 ###
 
-<p align="left">💬 Ask me about **DevOps and AWS Cloud.**</p>
+<p align="left">💬 Ask me about DevOps and AWS Cloud.</p>
 
 ###
 
-<p align="left">📫 How to reach me **ogennanyelugo@gmail.com**</p>
+<p align="left">📫 How to reach me ogennanyelugo@gmail.com</p>
 
 ###
 
-<p align="left">👨‍💻 All of my projects are available at **(https://github.com/ogechukwu1)**</p>
+<p align="left">👨‍💻 All of my projects are available at https://github.com/ogechukwu1</p>
 
 ###
 
-<p align="left">📄 Know about my experiences **Check out my [LinkedIn](https://www.linkedin.com/in/nnanyelugo-ogechukwu-005216216) for a detailed overview of my professional journey and certifications.**</p>
+<p align="left">📄 Know about my experiences Check out my LinkedIn https://www.linkedin.com/in/nnanyelugo-ogechukwu-005216216 for a detailed overview of my professional journey and certifications.</p>
 
 ###
 
-<p align="left">⚡ Fun fact **I love listening to music and enjoy outdoor activities, gaming and watching movies in my free time!**</p>
+<p align="left">⚡ Fun fact I love listening to music and enjoy outdoor activities, gaming and watching movies in my free time!</p>
 
 ###
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
