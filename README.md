@@ -54,22 +54,12 @@
 ###
 
 <div align="left">
-  <a href="mailto:ogennanyelugo@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/nnanyelugo-ogechukwu-005216216" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/oge_nna1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
 </div>
-
-- **Gmail:** ogennanyelugo@gmail.com
-- **Twitter:** [@oge_nna1](https://twitter.com/oge_nna1)
-- **LinkedIn:** [Nnanyelugo Ogechukwu](https://www.linkedin.com/in/nnanyelugo-ogechukwu-005216216)
-
 
 ###
 
@@ -113,7 +103,7 @@
 
 ###
 
-<p align="left">⚡ Fun fact I love listening to music and enjoy outdoor activities, gaming and watching movies in my free time!</p>
+<p align="left">⚡ Fun fact **I love listening to music and enjoy outdoor activities, gaming and watching movies in my free time!**</p>
 
 ###
 
