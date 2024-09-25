@@ -1,29 +1,108 @@
-<h1 align="center">Hi 👋, I'm Nnanyelugo Ogechukwu</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ogechukwu1&label=Profile%20views&color=0e75b6&style=flat" alt="ogechukwu1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ogechukwu1" alt="ogechukwu1" /></a> </p>
+<h1 align="center">Hi 👋! My name is Nnanyelugo Ogechukwu</h1>
 
-- 🔭 I’m currently working on **Projects**
+###
 
-- 🌱 I’m currently learning **DevOps and Open to Insights, tips, and recommendations from those experienced in DevOps. If you have hands-on experience or valuable resources to share, I'm all ears!**
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-- 👯 I’m looking to collaborate on **projects that push the boundaries of efficiency and innovation**
+###
 
-- 📫 How to reach me **ogennanyelugo@gmail.com**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="30" alt="vagrant logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
-- ⚡ Fun fact **I love listening to music**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/desunshine0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="desunshine0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nnanyelugo-ogechukwu-005216216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nnanyelugo-ogechukwu-005216216/" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogechukwu1&show_icons=true&locale=en&layout=compact" alt="ogechukwu1" /></p>
+<h2 align="left">👩‍💻  About Me</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogechukwu1&show_icons=true&locale=en" alt="ogechukwu1" /></p>
+###
+
+<h3 align="center">I'm a passionate DevOps and Cloud Engineer with hands-on experience in AWS services, automation, and infrastructure management. I enjoy working on scalable and secure cloud solutions, improving performance.</h3>
+
+###
+
+<p align="left">🔭 I’m currently working on **projects**</p>
+
+###
+
+<p align="left">👯 I’m looking to collaborate on **projects that push the boundaries of efficiency and innovation.**</p>
+
+###
+
+<p align="left">🤝 I’m looking for help with **Expanding my knowledge in Kubernetes and container orchestration, Collaborating on open-source DevOps or cloud projects, Exploring best practices for securing cloud infrastructures.**</p>
+
+###
+
+<p align="left">🌱 I’m currently learning **DevOps and Open to Insights, tips, and recommendations from those experienced in DevOps. Advanced AWS DevOps tools like Elastic Beanstalk, Lambda, etc. Kubernetes for containerized application deployment and management. Terraform for Infrastructure as Code (IaC) deployments. If you have hands-on experience or valuable resources to share, I'm all ears!**</p>
+
+###
+
+<p align="left">💬 Ask me about **DevOps and AWS Cloud.**</p>
+
+###
+
+<p align="left">📫 How to reach me **ogennanyelugo@gmail.com**</p>
+
+###
+
+<p align="left">👨‍💻 All of my projects are available at **(https://github.com/ogechukwu1)**</p>
+
+###
+
+<p align="left">📄 Know about my experiences **Check out my [LinkedIn](https://www.linkedin.com/in/nnanyelugo-ogechukwu-005216216) for a detailed overview of my professional journey and certifications.**</p>
+
+###
+
+<p align="left">⚡ Fun fact **I love listening to music and enjoy outdoor activities, gaming and watching movies in my free time!**</p>
+
+###
