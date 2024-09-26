@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ogechukwu1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="250" alt="GitHub stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ogechukwu1&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ogechukwu1&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="250" alt="Top languages" />
 </p>
 
 
