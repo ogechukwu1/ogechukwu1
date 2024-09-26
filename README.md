@@ -2,9 +2,13 @@
 
 ###
 
+<div align="center">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ogechukwu1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ogechukwu1&layout=compact&langs_count=5&theme=dracula&hide_border=false)
+
+</div>
 
 ###
 
@@ -107,10 +111,6 @@
 <p align="left">⚡ Fun fact I love listening to music and enjoy outdoor activities, gaming and watching movies in my free time!</p>
 
 ###
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ogechukwu1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ogechukwu1&layout=compact&langs_count=5&theme=dracula&hide_border=false)
 
 
 
